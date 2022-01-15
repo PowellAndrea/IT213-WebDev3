@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Andrea\\Code\\IT213-WebDev3\\HW1-MvcMovie\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
+    "E:\\Andrea\\Code\\IT213-WebDev3\\SandBox\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "E:\\Andrea\\Code\\IT213-WebDev3\\HW1-MvcMovie\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {
+    "E:\\Andrea\\Code\\IT213-WebDev3\\SandBox\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Andrea\\Code\\IT213-WebDev3\\HW1-MvcMovie\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "E:\\Andrea\\Code\\IT213-WebDev3\\SandBox\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "E:\\Andrea\\Code\\IT213-WebDev3\\HW1-MvcMovie\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "E:\\Andrea\\Code\\IT213-WebDev3\\SandBox\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\Andrea\\.nuget\\packages\\",
-        "outputPath": "E:\\Andrea\\Code\\IT213-WebDev3\\HW1-MvcMovie\\MvcMovie\\MvcMovie\\obj\\",
+        "outputPath": "E:\\Andrea\\Code\\IT213-WebDev3\\SandBox\\MvcMovie\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrea\\AppData\\Roaming\\NuGet\\NuGet.Config",
