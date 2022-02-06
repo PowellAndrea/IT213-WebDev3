@@ -9427,11 +9427,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\_SourceCode\\IT213-WebDev3\\HW1-MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "E:\\_SourceCode\\IT213-WebDev3\\HW2\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "E:\\_SourceCode\\IT213-WebDev3\\HW1-MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "E:\\_SourceCode\\IT213-WebDev3\\HW2\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\Andrea\\.nuget\\packages\\",
-      "outputPath": "E:\\_SourceCode\\IT213-WebDev3\\HW1-MvcMovie\\MvcMovie\\obj\\",
+      "outputPath": "E:\\_SourceCode\\IT213-WebDev3\\HW2\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andrea\\AppData\\Roaming\\NuGet\\NuGet.Config",

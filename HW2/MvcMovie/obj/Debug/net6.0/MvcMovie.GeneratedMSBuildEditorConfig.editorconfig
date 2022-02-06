@@ -8,69 +8,69 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MvcMovie
 build_property.RootNamespace = MvcMovie
-build_property.ProjectDir = E:\_SourceCode\IT213-WebDev3\HW1-MvcMovie\MvcMovie\
+build_property.ProjectDir = E:\_SourceCode\IT213-WebDev3\HW2\MvcMovie\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\_SourceCode\IT213-WebDev3\HW1-MvcMovie\MvcMovie
+build_property.MSBuildProjectDirectory = E:\_SourceCode\IT213-WebDev3\HW2\MvcMovie
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/_SourceCode/IT213-WebDev3/HW1-MvcMovie/MvcMovie/Views/HelloWorld/Index.cshtml]
+[E:/_SourceCode/IT213-WebDev3/HW2/MvcMovie/Views/HelloWorld/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/_SourceCode/IT213-WebDev3/HW1-MvcMovie/MvcMovie/Views/HelloWorld/Welcome.cshtml]
+[E:/_SourceCode/IT213-WebDev3/HW2/MvcMovie/Views/HelloWorld/Welcome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxXZWxjb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/_SourceCode/IT213-WebDev3/HW1-MvcMovie/MvcMovie/Views/Home/Index.cshtml]
+[E:/_SourceCode/IT213-WebDev3/HW2/MvcMovie/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/_SourceCode/IT213-WebDev3/HW1-MvcMovie/MvcMovie/Views/Home/Privacy.cshtml]
+[E:/_SourceCode/IT213-WebDev3/HW2/MvcMovie/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/_SourceCode/IT213-WebDev3/HW1-MvcMovie/MvcMovie/Views/Index.cshtml]
+[E:/_SourceCode/IT213-WebDev3/HW2/MvcMovie/Views/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/_SourceCode/IT213-WebDev3/HW1-MvcMovie/MvcMovie/Views/Movies/Create.cshtml]
+[E:/_SourceCode/IT213-WebDev3/HW2/MvcMovie/Views/Movies/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/_SourceCode/IT213-WebDev3/HW1-MvcMovie/MvcMovie/Views/Movies/Delete.cshtml]
+[E:/_SourceCode/IT213-WebDev3/HW2/MvcMovie/Views/Movies/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/_SourceCode/IT213-WebDev3/HW1-MvcMovie/MvcMovie/Views/Movies/Details.cshtml]
+[E:/_SourceCode/IT213-WebDev3/HW2/MvcMovie/Views/Movies/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/_SourceCode/IT213-WebDev3/HW1-MvcMovie/MvcMovie/Views/Movies/Edit.cshtml]
+[E:/_SourceCode/IT213-WebDev3/HW2/MvcMovie/Views/Movies/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/_SourceCode/IT213-WebDev3/HW1-MvcMovie/MvcMovie/Views/Movies/Index.cshtml]
+[E:/_SourceCode/IT213-WebDev3/HW2/MvcMovie/Views/Movies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/_SourceCode/IT213-WebDev3/HW1-MvcMovie/MvcMovie/Views/Shared/Error.cshtml]
+[E:/_SourceCode/IT213-WebDev3/HW2/MvcMovie/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/_SourceCode/IT213-WebDev3/HW1-MvcMovie/MvcMovie/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/_SourceCode/IT213-WebDev3/HW2/MvcMovie/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/_SourceCode/IT213-WebDev3/HW1-MvcMovie/MvcMovie/Views/_ViewImports.cshtml]
+[E:/_SourceCode/IT213-WebDev3/HW2/MvcMovie/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/_SourceCode/IT213-WebDev3/HW1-MvcMovie/MvcMovie/Views/_ViewStart.cshtml]
+[E:/_SourceCode/IT213-WebDev3/HW2/MvcMovie/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/_SourceCode/IT213-WebDev3/HW1-MvcMovie/MvcMovie/Views/Shared/_Layout.cshtml]
+[E:/_SourceCode/IT213-WebDev3/HW2/MvcMovie/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-0uvum7rpp4
